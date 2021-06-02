@@ -1,0 +1,48 @@
+body{
+	/*font-family: 'Lato', sans-serif;
+font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;*/
+font-family: 'Orelega One', cursive;
+}
+h1{font-size: 66px; font-kerning: 600; line-height: 80px}
+.navbar{
+	background-color: #fff
+	box-shadow:0 2px 0 rgba(0,0,0,.05);
+	min-height: 100px
+}
+.topmargin-xs {margin-top:15px ;}
+.topmargin-sm {margin-top:30px ;}
+.topmargin-lg {margin-top:60px ;}
+p{
+	font-size: 20px;
+	color: #999;
+	line-height: 1.8;
+	margin-bottom: 0;
+}
+.nav-link{color: #0016E9;}
+.nav-link:hover{color:#EC0000;}
+.logo-brand{
+	min-width: 170px;
+	min-width: 180px;
+}
+.navbar-toggler{font-size: 27px;}
+.navbar-toggler:focus{outline: none}
+
+#hero{
+	background-image: url(Imagenes/Bootstrap2.jpg);
+	background-size: cover;
+	padding-top: 90px;
+	min-height: 700px;
+	color: #fff;
+}
+#hero p{
+	color: #666666;
+
+}
+.content-center{
+	max-width: 800px;
+	margin:0 auto 60px auto;
+	text-align: center;
+}
